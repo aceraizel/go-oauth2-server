@@ -3,7 +3,7 @@ package migrations
 import (
 	"fmt"
 
-	"github.com/aceraizel/log"
+	"github.com/aceraizel/go-oauth2-server/log"
 	"github.com/jinzhu/gorm"
 )
 

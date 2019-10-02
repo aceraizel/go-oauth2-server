@@ -1,10 +1,10 @@
 package oauth
 
 import (
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/session"
-	"github.com/aceraizel/util/routes"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/session"
+	"github.com/aceraizel/go-oauth2-server/util/routes"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 )

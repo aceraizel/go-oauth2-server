@@ -4,11 +4,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/log"
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/test-util"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/log"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/test-util"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 	"github.com/stretchr/testify/suite"
@@ -31,7 +31,7 @@ var (
 )
 
 func init() {
-	if err := os.Chdir("github.com/aceraizel/"); err != nil {
+	if err := os.Chdir("github.com/aceraizel/go-oauth2-server/"); err != nil {
 		log.ERROR.Fatal(err)
 	}
 }

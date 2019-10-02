@@ -1,7 +1,7 @@
 package health
 
 import (
-	"github.com/aceraizel/util/routes"
+	"github.com/aceraizel/go-oauth2-server/util/routes"
 	"github.com/gorilla/mux"
 )
 

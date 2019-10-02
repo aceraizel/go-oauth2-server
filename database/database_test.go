@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/database"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/database"
 	"github.com/stretchr/testify/assert"
 )
 

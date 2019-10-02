@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/oauth/roles"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/oauth/roles"
 	"github.com/jinzhu/gorm"
 )
 

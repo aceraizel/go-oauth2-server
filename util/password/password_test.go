@@ -3,7 +3,7 @@ package password_test
 import (
 	"testing"
 
-	"github.com/aceraizel/util/password"
+	"github.com/aceraizel/go-oauth2-server/util/password"
 	"github.com/stretchr/testify/assert"
 )
 

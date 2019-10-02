@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/database"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/database"
 	"github.com/jinzhu/gorm"
 )
 

@@ -3,10 +3,10 @@ package web
 import (
 	"net/http"
 
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/session"
-	"github.com/aceraizel/util/routes"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/session"
+	"github.com/aceraizel/go-oauth2-server/util/routes"
 	"github.com/gorilla/mux"
 )
 

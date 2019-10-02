@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aceraizel/config"
+	"github.com/aceraizel/go-oauth2-server/config"
 	"github.com/jinzhu/gorm"
 
 	// Drivers

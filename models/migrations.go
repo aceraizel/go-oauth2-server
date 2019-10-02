@@ -3,7 +3,7 @@ package models
 import (
 	"fmt"
 
-	"github.com/aceraizel/util/migrations"
+	"github.com/aceraizel/go-oauth2-server/util/migrations"
 	"github.com/jinzhu/gorm"
 )
 

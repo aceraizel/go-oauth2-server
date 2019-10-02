@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/RichardKnop/uuid"
-	"github.com/aceraizel/models"
+	"github.com/aceraizel/go-oauth2-server/models"
 	"github.com/stretchr/testify/assert"
 )
 

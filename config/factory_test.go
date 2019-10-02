@@ -3,7 +3,7 @@ package config_test
 import (
 	"testing"
 
-	"github.com/aceraizel/config"
+	"github.com/aceraizel/go-oauth2-server/config"
 	"github.com/stretchr/testify/assert"
 )
 

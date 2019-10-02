@@ -3,11 +3,11 @@ package services
 import (
 	"reflect"
 
-	"github.com/aceraizel/config"
-	"github.com/aceraizel/health"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/session"
-	"github.com/aceraizel/web"
+	"github.com/aceraizel/go-oauth2-server/config"
+	"github.com/aceraizel/go-oauth2-server/health"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/session"
+	"github.com/aceraizel/go-oauth2-server/web"
 	"github.com/gorilla/sessions"
 	"github.com/jinzhu/gorm"
 )

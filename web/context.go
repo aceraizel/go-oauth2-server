@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/session"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/session"
 	"github.com/gorilla/context"
 )
 

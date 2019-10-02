@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"net/url"
 
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/test-util"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/test-util"
 	"github.com/stretchr/testify/assert"
 )
 

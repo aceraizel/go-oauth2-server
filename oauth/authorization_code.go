@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/aceraizel/models"
+	"github.com/aceraizel/go-oauth2-server/models"
 )
 
 var (

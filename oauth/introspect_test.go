@@ -7,11 +7,11 @@ import (
 	"time"
 
 	"github.com/RichardKnop/uuid"
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/oauth/tokentypes"
-	testutil "github.com/aceraizel/test-util"
-	"github.com/aceraizel/util"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/oauth/tokentypes"
+	testutil "github.com/aceraizel/go-oauth2-server/test-util"
+	"github.com/aceraizel/go-oauth2-server/util"
 	"github.com/stretchr/testify/assert"
 )
 

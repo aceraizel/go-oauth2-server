@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/aceraizel/config"
+	"github.com/aceraizel/go-oauth2-server/config"
 	"github.com/gorilla/sessions"
 )
 

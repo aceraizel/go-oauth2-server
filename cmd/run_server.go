@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aceraizel/services"
+	"github.com/aceraizel/go-oauth2-server/services"
 	"github.com/gorilla/mux"
 	"github.com/phyber/negroni-gzip/gzip"
 	"github.com/urfave/negroni"

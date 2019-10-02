@@ -5,11 +5,11 @@ import (
 	"net/http/httptest"
 	"net/url"
 
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/oauth/roles"
-	"github.com/aceraizel/oauth/tokentypes"
-	"github.com/aceraizel/test-util"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/oauth/roles"
+	"github.com/aceraizel/go-oauth2-server/oauth/tokentypes"
+	"github.com/aceraizel/go-oauth2-server/test-util"
 	"github.com/stretchr/testify/assert"
 )
 

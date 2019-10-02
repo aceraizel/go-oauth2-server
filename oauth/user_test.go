@@ -4,11 +4,11 @@ import (
 	"time"
 
 	"github.com/RichardKnop/uuid"
-	"github.com/aceraizel/models"
-	"github.com/aceraizel/oauth"
-	"github.com/aceraizel/oauth/roles"
-	"github.com/aceraizel/util"
-	pass "github.com/aceraizel/util/password"
+	"github.com/aceraizel/go-oauth2-server/models"
+	"github.com/aceraizel/go-oauth2-server/oauth"
+	"github.com/aceraizel/go-oauth2-server/oauth/roles"
+	"github.com/aceraizel/go-oauth2-server/util"
+	pass "github.com/aceraizel/go-oauth2-server/util/password"
 	"github.com/stretchr/testify/assert"
 )
 

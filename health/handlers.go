@@ -3,7 +3,7 @@ package health
 import (
 	"net/http"
 
-	"github.com/aceraizel/util/response"
+	"github.com/aceraizel/go-oauth2-server/util/response"
 )
 
 // Handles health check requests (GET /v1/health)

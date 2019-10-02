@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/RichardKnop/uuid"
-	"github.com/aceraizel/util"
+	"github.com/aceraizel/go-oauth2-server/util"
 	"github.com/jinzhu/gorm"
 )
 

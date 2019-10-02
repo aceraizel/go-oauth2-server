@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	"github.com/RichardKnop/jsonhal"
-	"github.com/aceraizel/util/response"
+	"github.com/aceraizel/go-oauth2-server/util/response"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
 )

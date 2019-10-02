@@ -1,11 +1,11 @@
 package mocks
 
-import "github.com/aceraizel/oauth"
+import "github.com/aceraizel/go-oauth2-server/oauth"
 import "github.com/stretchr/testify/mock"
 
-import "github.com/aceraizel/config"
-import "github.com/aceraizel/models"
-import "github.com/aceraizel/util/routes"
+import "github.com/aceraizel/go-oauth2-server/config"
+import "github.com/aceraizel/go-oauth2-server/models"
+import "github.com/aceraizel/go-oauth2-server/util/routes"
 import "github.com/gorilla/mux"
 import "github.com/jinzhu/gorm"
 
