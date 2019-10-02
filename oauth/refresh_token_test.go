@@ -3,9 +3,9 @@ package oauth_test
 import (
 	"time"
 
-	"../models"
-	"../oauth"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
 	"github.com/stretchr/testify/assert"
 )
 

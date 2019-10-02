@@ -4,7 +4,7 @@ import (
 	"database/sql/driver"
 	"testing"
 
-	"../models"
+	"github.com/aceraizel/models"
 	"github.com/stretchr/testify/assert"
 )
 

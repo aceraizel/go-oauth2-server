@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"../cmd"
+	"github.com/aceraizel/cmd"
 	"github.com/urfave/cli"
 )
 

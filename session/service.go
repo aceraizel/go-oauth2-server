@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net/http"
 
-	"../config"
+	"github.com/aceraizel/config"
 	"github.com/gorilla/sessions"
 )
 

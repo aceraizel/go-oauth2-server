@@ -3,7 +3,7 @@ package oauth
 import (
 	"errors"
 
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 var (

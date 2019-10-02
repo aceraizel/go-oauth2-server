@@ -1,10 +1,10 @@
 package oauth
 
 import (
-	"../config"
-	"../models"
-	"../session"
-	"../util/routes"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/session"
+	"github.com/aceraizel/util/routes"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 )

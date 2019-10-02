@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"../models"
-	"../session"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/session"
 	"github.com/jinzhu/gorm"
 )
 

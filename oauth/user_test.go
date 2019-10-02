@@ -3,12 +3,12 @@ package oauth_test
 import (
 	"time"
 
-	"../models"
-	"../oauth"
-	"../oauth/roles"
-	"../util"
-	pass "../util/password"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/oauth/roles"
+	"github.com/aceraizel/util"
+	pass "github.com/aceraizel/util/password"
 	"github.com/stretchr/testify/assert"
 )
 

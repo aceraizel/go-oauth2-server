@@ -1,11 +1,11 @@
 package mocks
 
-import "../oauth"
+import "github.com/aceraizel/oauth"
 import "github.com/stretchr/testify/mock"
 
-import "../config"
-import "../models"
-import "../util/routes"
+import "github.com/aceraizel/config"
+import "github.com/aceraizel/models"
+import "github.com/aceraizel/util/routes"
 import "github.com/gorilla/mux"
 import "github.com/jinzhu/gorm"
 

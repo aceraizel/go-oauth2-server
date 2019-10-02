@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"../util"
+	"github.com/aceraizel/util"
 	"github.com/stretchr/testify/assert"
 )
 

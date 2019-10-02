@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"../config"
+	"github.com/aceraizel/config"
 	"github.com/jinzhu/gorm"
 
 	// Drivers

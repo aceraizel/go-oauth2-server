@@ -6,12 +6,12 @@ import (
 	"net/url"
 	"time"
 
-	"../models"
-	"../oauth"
-	"../oauth/tokentypes"
-	testutil "../test-util"
-	"../util"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/oauth/tokentypes"
+	testutil "github.com/aceraizel/test-util"
+	"github.com/aceraizel/util"
 	"github.com/stretchr/testify/assert"
 )
 

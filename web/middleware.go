@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"../session"
+	"github.com/aceraizel/session"
 	"github.com/gorilla/context"
 )
 

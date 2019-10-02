@@ -3,8 +3,8 @@ package oauth
 import (
 	"net/http"
 
-	"../models"
-	"../oauth/tokentypes"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth/tokentypes"
 )
 
 func (s *Service) clientCredentialsGrant(r *http.Request, client *models.OauthClient) (*AccessTokenResponse, error) {

@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"../oauth/roles"
+	"github.com/aceraizel/oauth/roles"
 )
 
 func (s *Service) registerForm(w http.ResponseWriter, r *http.Request) {

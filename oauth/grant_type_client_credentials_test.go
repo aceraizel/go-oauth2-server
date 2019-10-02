@@ -5,10 +5,10 @@ import (
 	"net/http/httptest"
 	"net/url"
 
-	"../models"
-	"../oauth"
-	"../oauth/tokentypes"
-	"../test-util"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/oauth/tokentypes"
+	"github.com/aceraizel/test-util"
 	"github.com/stretchr/testify/assert"
 )
 

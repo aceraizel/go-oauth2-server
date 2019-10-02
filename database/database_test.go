@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"../config"
-	"../database"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/database"
 	"github.com/stretchr/testify/assert"
 )
 

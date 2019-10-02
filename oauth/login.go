@@ -1,7 +1,7 @@
 package oauth
 
 import (
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 // Login creates an access token and refresh token for a user (logs him/her in)

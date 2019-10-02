@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"../util/response"
+	"github.com/aceraizel/util/response"
 	"github.com/stretchr/testify/assert"
 )
 

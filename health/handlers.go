@@ -3,7 +3,7 @@ package health
 import (
 	"net/http"
 
-	"../util/response"
+	"github.com/aceraizel/util/response"
 )
 
 // Handles health check requests (GET /v1/health)

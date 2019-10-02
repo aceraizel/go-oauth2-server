@@ -18,7 +18,7 @@ ADD . /go/src/github.com/aceraizel/go-oauth2-server
 ENV GO111MODULE on
 
 # Chown the application directory to app user
-RUN chown -R app:app /go/src/../
+RUN chown -R app:app /go/src/github.com/aceraizel/
 
 # Create user's home directory
 RUN mkdir -p /home/app

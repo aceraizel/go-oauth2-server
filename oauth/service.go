@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"../config"
-	"../oauth/roles"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/oauth/roles"
 	"github.com/jinzhu/gorm"
 )
 

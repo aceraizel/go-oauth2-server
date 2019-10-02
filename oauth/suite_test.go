@@ -4,11 +4,11 @@ import (
 	"os"
 	"testing"
 
-	"../config"
-	"../log"
-	"../models"
-	"../oauth"
-	"../test-util"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/log"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/test-util"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 	"github.com/stretchr/testify/suite"
@@ -31,7 +31,7 @@ var (
 )
 
 func init() {
-	if err := os.Chdir("../"); err != nil {
+	if err := os.Chdir("github.com/aceraizel/"); err != nil {
 		log.ERROR.Fatal(err)
 	}
 }

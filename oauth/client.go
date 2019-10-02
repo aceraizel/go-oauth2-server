@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"../models"
-	"../util"
-	"../util/password"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/util"
+	"github.com/aceraizel/util/password"
 	"github.com/jinzhu/gorm"
 )
 

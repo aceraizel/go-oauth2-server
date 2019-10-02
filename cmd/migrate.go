@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"../models"
-	"../util/migrations"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/util/migrations"
 )
 
 // Migrate runs database migrations

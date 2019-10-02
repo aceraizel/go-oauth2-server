@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"../config"
-	"../session"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/session"
 	"github.com/gorilla/sessions"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"

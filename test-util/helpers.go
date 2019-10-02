@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"../util/response"
 	"github.com/RichardKnop/jsonhal"
+	"github.com/aceraizel/util/response"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
 )

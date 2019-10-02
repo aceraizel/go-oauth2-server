@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 var (

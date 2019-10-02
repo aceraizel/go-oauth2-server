@@ -3,7 +3,7 @@ package config_test
 import (
 	"testing"
 
-	"../config"
+	"github.com/aceraizel/config"
 	"github.com/stretchr/testify/assert"
 )
 

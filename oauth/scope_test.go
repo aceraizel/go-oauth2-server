@@ -1,7 +1,7 @@
 package oauth_test
 
 import (
-	"../oauth"
+	"github.com/aceraizel/oauth"
 	"github.com/stretchr/testify/assert"
 )
 

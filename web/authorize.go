@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"../models"
-	"../session"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/session"
 )
 
 // ErrIncorrectResponseType a form value for response_type was not set to token or code

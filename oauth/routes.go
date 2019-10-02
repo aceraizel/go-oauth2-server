@@ -1,7 +1,7 @@
 package oauth
 
 import (
-	"../util/routes"
+	"github.com/aceraizel/util/routes"
 	"github.com/gorilla/mux"
 )
 

@@ -3,7 +3,7 @@ package models
 import (
 	"fmt"
 
-	"../util/migrations"
+	"github.com/aceraizel/util/migrations"
 	"github.com/jinzhu/gorm"
 )
 

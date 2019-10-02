@@ -3,7 +3,7 @@ package migrations
 import (
 	"fmt"
 
-	"../log"
+	"github.com/aceraizel/log"
 	"github.com/jinzhu/gorm"
 )
 

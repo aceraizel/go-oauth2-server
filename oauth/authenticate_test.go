@@ -3,10 +3,10 @@ package oauth_test
 import (
 	"time"
 
-	"../models"
-	"../oauth"
-	"../session"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/session"
 	"github.com/jinzhu/gorm"
 	"github.com/stretchr/testify/assert"
 )

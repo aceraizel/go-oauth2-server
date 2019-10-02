@@ -3,8 +3,8 @@ package oauth_test
 import (
 	"time"
 
-	"../models"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
 	"github.com/stretchr/testify/assert"
 )
 

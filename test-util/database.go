@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/RichardKnop/go-fixtures"
-	"../util/migrations"
+	"github.com/aceraizel/util/migrations"
 	"github.com/jinzhu/gorm"
 
 	// Drivers

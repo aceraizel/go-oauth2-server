@@ -1,7 +1,7 @@
 package session_test
 
 import (
-	"../session"
+	"github.com/aceraizel/session"
 	"github.com/stretchr/testify/assert"
 )
 

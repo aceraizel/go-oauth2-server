@@ -3,9 +3,9 @@ package web
 import (
 	"net/http"
 
-	"../config"
-	"../oauth"
-	"../session"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/session"
 )
 
 // Service struct keeps variables for reuse

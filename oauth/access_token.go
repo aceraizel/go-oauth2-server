@@ -3,7 +3,7 @@ package oauth
 import (
 	"time"
 
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 // GrantAccessToken deletes old tokens and grants a new access token

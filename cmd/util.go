@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"../config"
-	"../database"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/database"
 	"github.com/jinzhu/gorm"
 )
 

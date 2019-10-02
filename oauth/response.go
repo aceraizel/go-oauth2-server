@@ -1,7 +1,7 @@
 package oauth
 
 import (
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 // AccessTokenResponse ...

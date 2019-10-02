@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"../log"
+	"github.com/aceraizel/log"
 	"github.com/hashicorp/consul/api"
 )
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"../util"
+	"github.com/aceraizel/util"
 	"github.com/lib/pq"
 	"github.com/stretchr/testify/assert"
 )

@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"../models"
-	"../util"
-	pass "../util/password"
 	"github.com/RichardKnop/uuid"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/util"
+	pass "github.com/aceraizel/util/password"
 	"github.com/jinzhu/gorm"
 )
 

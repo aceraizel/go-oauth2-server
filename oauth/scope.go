@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"../models"
+	"github.com/aceraizel/models"
 )
 
 var (

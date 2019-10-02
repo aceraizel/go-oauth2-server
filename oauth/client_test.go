@@ -1,8 +1,8 @@
 package oauth_test
 
 import (
-	"../models"
-	"../oauth"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth"
 	"github.com/stretchr/testify/assert"
 )
 

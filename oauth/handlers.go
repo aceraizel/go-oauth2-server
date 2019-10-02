@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"../models"
-	"../util/response"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/util/response"
 )
 
 var (

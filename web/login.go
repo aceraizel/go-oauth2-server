@@ -3,7 +3,7 @@ package web
 import (
 	"net/http"
 
-	"../session"
+	"github.com/aceraizel/session"
 )
 
 func (s *Service) loginForm(w http.ResponseWriter, r *http.Request) {

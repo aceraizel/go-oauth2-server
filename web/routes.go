@@ -1,7 +1,7 @@
 package web
 
 import (
-	"../util/routes"
+	"github.com/aceraizel/util/routes"
 	"github.com/gorilla/mux"
 	"github.com/urfave/negroni"
 )

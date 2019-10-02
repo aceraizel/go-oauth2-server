@@ -3,7 +3,7 @@ package password_test
 import (
 	"testing"
 
-	"../util/password"
+	"github.com/aceraizel/util/password"
 	"github.com/stretchr/testify/assert"
 )
 

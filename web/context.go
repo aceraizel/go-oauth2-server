@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"../models"
-	"../session"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/session"
 	"github.com/gorilla/context"
 )
 

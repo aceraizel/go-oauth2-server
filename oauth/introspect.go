@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"../models"
-	"../oauth/tokentypes"
+	"github.com/aceraizel/models"
+	"github.com/aceraizel/oauth/tokentypes"
 )
 
 const (

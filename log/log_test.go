@@ -3,7 +3,7 @@ package log_test
 import (
 	"testing"
 
-	"../log"
+	"github.com/aceraizel/log"
 )
 
 func TestDefaultLogger(t *testing.T) {

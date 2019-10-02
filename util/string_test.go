@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"../util"
+	"github.com/aceraizel/util"
 	"github.com/stretchr/testify/assert"
 )
 

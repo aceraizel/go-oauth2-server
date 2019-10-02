@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	thelog "../log"
+	thelog "github.com/aceraizel/log"
 	"github.com/urfave/negroni"
 )
 

@@ -3,11 +3,11 @@ package services
 import (
 	"reflect"
 
-	"../config"
-	"../health"
-	"../oauth"
-	"../session"
-	"../web"
+	"github.com/aceraizel/config"
+	"github.com/aceraizel/health"
+	"github.com/aceraizel/oauth"
+	"github.com/aceraizel/session"
+	"github.com/aceraizel/web"
 	"github.com/gorilla/sessions"
 	"github.com/jinzhu/gorm"
 )
